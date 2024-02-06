@@ -4,4 +4,4 @@ This projectThe  methodology is  to utilize MediaPipe Studio to develop and trai
 this project was developed leveraging various machine learning tools available in the Python programming language and Google Mediapipe for feature extraction of key coordinate points, Tensorflow framework, and Keras, as well as OpenCV. The approach involved training the AI model and classifying videos using this trained model.
 
 Inline-style: 
-![Data collection](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Collecting Data")
+![Data collection](https://github.com/SheidaRa/Sign-Language-Recogniser/blob/main/Data%20Collection.gif "Collecting Data")
